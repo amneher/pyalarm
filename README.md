@@ -1,6 +1,5 @@
 # PyAlarm
 ## A Raspberry Pi-based security system.
-### Andrew Neher, 2022
 
 ## Purpose
 This is a fun little project for managing and viewing the status of a MQTT-connected group of sensors. 
@@ -19,7 +18,7 @@ which are collections of sensors.
 - Prepare Dockerfile/docker-compose.yml
 
 ## License
-### CC-BY-SA
+_CC-BY-SA_
 
 ## Updates:
 ### 2022-05-08: Started project.
